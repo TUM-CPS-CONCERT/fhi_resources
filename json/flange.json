@@ -1,7 +1,7 @@
 {
   "header": {
     "ID": "4010",
-    "name": "flange.json",
+    "name": "flange",
     "date": "2023-11-20",
     "author": "MarcoMagri",
     "affiliation": "Fraunhofer Italia",
@@ -22,7 +22,7 @@
           0.0,
           0.0
         ],
-        [          
+        [
           0.0,
           0.000323135,
           0.0
@@ -48,9 +48,7 @@
               0.001,
               0.001
             ],
-            "color": {
-              "material_name": "grey"
-            }
+            "color": "grey"
           },
           "pose": [
             [
@@ -180,8 +178,8 @@
               1
             ]
           ],
-          "gender": "e",
-          "type": "eef",
+          "gender": "m",
+          "type": "eef_flange",
           "size": "large"
         }
       ],

@@ -1,7 +1,7 @@
 {
     "header": {
       "ID": "4020",
-      "name": "driller.json",
+      "name": "driller",
       "date": "2023-11-20",
       "author": "MarcoMagri",
       "affiliation": "Fraunhofer Italia",
@@ -41,7 +41,7 @@
             0.00006267,
             -0.000356033
           ],
-          [          
+          [
             0.00006267,
             0.004228581,
             0.000156839
@@ -67,9 +67,7 @@
                 0.001,
                 0.001
               ],
-              "color": {
-                "material_name": "grey"
-              }
+              "color": "grey"
             },
             "pose": [
               [
@@ -168,7 +166,7 @@
               ]
             ],
             "gender": "f",
-            "type": "eef",
+            "type": "eef_flange",
             "size": "large"
           },
           {
@@ -181,7 +179,7 @@
                 0.15558
               ],
               [
-                -0.17896391, 
+                -0.17896391,
                 0.70316648,
                 -0.6881343,
                 0.13015
@@ -199,7 +197,7 @@
                 1
               ]
             ],
-            "gender": "e",
+            "gender": "m",
             "type": "eef",
             "size": "large"
           }
